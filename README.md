@@ -40,7 +40,8 @@ ___
 * [Trifoliar informativo]()
 * [Video Explicativo]()
 
-
+___
+### ** Foto Grupo 4**
 
 
 ![GRUPO No.4](grupo4.jpg)

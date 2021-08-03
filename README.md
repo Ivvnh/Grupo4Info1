@@ -23,7 +23,7 @@ ___
 
 | Nombre | Carné  |
 |--------|--------|
-|JOHAN CHAN |000000000  |
+|JOHAN CHAN |201603052  |
 |JORGE ESPINA    |201403632  |
 
 

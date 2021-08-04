@@ -13,18 +13,18 @@ ___
 
 | Nombre | Carné  |
 |--------|--------|
-|MANUEL DE JESÚS ARCHILA ELÍAS  |201807245  |
-|MARÍA ISABEL MASAYA CÓRDOVA    |201800565  |
-|BYRON ENRIQUE RUMPICH SAL  |201907769  |
-|LUIS IVÁN HIDALGO PEÑA |201903897  |
-|SAÚL ALFREDO BARBERO CONTRERAS |201809935  |
+|Manuel De Jesús Archila Elías  |201807245  |
+|María Isabel Masaya Córdova    |201800565  |
+|Byron Enrique Rumpich Sal  |201907769  |
+|Luis Ivan Hidalgo Peña |201903897  |
+|Saúl Alfredo Barbero Contreras |201809935  |
 
 ### **Tutores**
 
 | Nombre | Carné  |
 |--------|--------|
-|JOHAN CHAN |201603052  |
-|JORGE ESPINA    |201403632  |
+|Johan Leonel Chan Toledo |201603052  |
+|Jorge David Espina Molina    |201403632  |
 
 
 ___
@@ -38,7 +38,7 @@ ___
 
 * [Manual tecnico](Manual_Grupo4.pdf)
 * [Trifoliar informativo]()
-* [Video Explicativo]()
+* [Video Explicativo](https://youtu.be/KzfBrML3_00)
 
 ___
 ### **Foto Grupo 4**

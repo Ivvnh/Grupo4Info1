@@ -14,7 +14,7 @@ ___
 | Nombre | Carné  |
 |--------|--------|
 |Manuel De Jesús Archila Elías  |201807245  |
-|María Isabel Masaya Córdova    |201800565  |
+|María Isabel Masaya Córdova  |201800565  |
 |Byron Enrique Rumpich Sal  |201907769  |
 |Luis Ivan Hidalgo Peña |201903897  |
 |Saúl Alfredo Barbero Contreras |201809935  |
@@ -24,7 +24,7 @@ ___
 | Nombre | Carné  |
 |--------|--------|
 |Johan Leonel Chan Toledo |201603052  |
-|Jorge David Espina Molina    |201403632  |
+|Jorge David Espina Molina  |201403632  |
 
 
 ___

@@ -37,7 +37,7 @@ ___
 ### **Seleccione el archivo que desea ver**
 
 * [Manual tecnico](Manual_Grupo4.pdf)
-* [Trifoliar informativo]()
+* [Trifoliar informativo](Trifolear-Mantenimiento.pdf)
 * [Video Explicativo](https://youtu.be/KzfBrML3_00)
 
 ___

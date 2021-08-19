@@ -40,6 +40,7 @@ ___
 * [Trifoliar informativo](Trifolear-Mantenimiento.pdf)
 * [Video Explicativo](https://youtu.be/KzfBrML3_00)
 * [Pagina Web](https://jorgeespina.github.io/G4/)
+* [Manual Sistemas operativos (Ubuntu)](Manual_grupo#4_PIF-.pdf)
 
 ___
 ### **Foto Grupo 4**
